@@ -1,0 +1,54 @@
+.cli-window {
+  height: 100%;
+  overflow: auto;
+  padding: 1rem;
+  background: #111;
+  color: #e6e6e6;
+  font-family: "Fira Code", monospace;
+
+  div[name="react-console-emulator"] {
+    height: 100%;
+    background-color: transparent !important;
+  }
+}
+
+/* Default Dark Theme */
+body[data-theme="dark"] {
+  background: #111;
+  color: #e6e6e6;
+}
+
+/* Hacker Theme */
+body[data-theme="hacker"] {
+  background: #000;
+  color: #00ff00;
+}
+
+body[data-theme="hacker"] .cli-window {
+  text-shadow: 0 0 5px #00ff00;
+}
+
+/* Retro Theme */
+body[data-theme="retro"] {
+  background: #2b2b2b;
+  color: #ffcc00;
+}
+
+body[data-theme="retro"] .cli-window {
+  text-shadow: 0 0 5px #ffcc00;
+}
+
+/* Scrollbar Styling */
+.cli-window::-webkit-scrollbar {
+  width: 6px;
+}
+
+.cli-window::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 10px;
+}
+
+/* Smooth transition */
+body {
+  transition: background 0.3s ease, color 0.3s ease;
+}

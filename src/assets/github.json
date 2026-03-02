@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A JavaScript library for building user interfaces, maintained by Meta and community contributors.",
+    "tags": ["JavaScript", "UI", "Frontend", "Library"],
+    "repolink": "https://github.com/facebook/react",
+    "demolink": "https://react.dev/"
+  },
+  {
+    "id": 2,
+    "title": "freeCodeCamp",
+    "image": "https://images.unsplash.com/photo-1733222765056-b0790217baa9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Open-source codebase and curriculum for learning programming and web development.",
+    "tags": ["Education", "JavaScript", "Tutorials"],
+    "repolink": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "demolink": "https://www.freecodecamp.org/"
+  },
+  {
+    "id": 3,
+    "title": "30 Days of React",
+    "image": "https://images.unsplash.com/photo-1569748130764-3fed0c102c59?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Step-by-step React.js learning challenge repository with projects and exercises.",
+    "tags": ["React", "JavaScript", "Learning"],
+    "repolink": "https://github.com/Asabeneh/30-Days-Of-React",
+    "demolink": "https://30daysofreact.com/"
+  },
+  {
+    "id": 4,
+    "title": "freeCodeCamp Certification Projects",
+    "image": "https://avatars.githubusercontent.com/u/9892522?s=200&v=4",
+    "description": "Collection of example front-end challenge projects from freeCodeCamp curriculum.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repolink": "https://github.com/JuanPabloDiaz/freecodecamp",
+    "demolink": "https://juanpablodiaz.github.io/freecodecamp/"
+  },
+  {
+    "id": 5,
+    "title": "React Tic-Tac-Toe",
+    "image": "https://images.unsplash.com/photo-1668901382969-8c73e450a1f5?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A classic Tetris game implemented using React for UI practice.",
+    "tags": ["React", "Game", "Frontend"],
+    "repolink": "https://github.com/chvin/react-tetris",
+    "demolink": "https://chvin.github.io/react-tetris/"
+  },
+  {
+    "id": 6,
+    "title": "project_chat_application",
+    "image": "https://images.unsplash.com/photo-1662974770404-468fd9660389?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Real-time chat application built with React, Node.js, and Socket.io.",
+    "tags": ["React", "Socket.io", "Node", "Realtime"],
+    "repolink": "https://github.com/adrianhajdin/project_chat_application",
+    "demolink": "https://project-chat-application.vercel.app/"
+  },
+  {
+    "id": 7,
+    "title": "MERN Admin Dashboard",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Admin dashboard built with MERN stack (MongoDB, Express, React, Node).",
+    "tags": ["MERN", "Dashboard", "React"],
+    "repolink": "https://github.com/idurar/mern-admin",
+    "demolink": "https://mern-admin.vercel.app/"
+  },
+  {
+    "id": 8,
+    "title": "NarendraKoya freeCodeCamp HTML/CSS Projects",
+    "image": "https://images.unsplash.com/photo-1649451844813-3130d6f42f8a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Collection of 20 frontend projects using HTML and CSS for practice.",
+    "tags": ["HTML", "CSS", "Responsive"],
+    "repolink": "https://github.com/NarendraKoya999/freeCodeCamp-Projects-HTML-CSS-RWD",
+    "demolink": "https://narendrakoya999.github.io/freeCodeCamp-Projects-HTML-CSS-RWD/"
+  },
+  {
+    "id": 9,
+    "title": "awesome-projects",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Curated collection of amazing open source projects across various domains.",
+    "tags": ["Collection", "Open Source"],
+    "repolink": "https://github.com/imq/awesome-projects",
+    "demolink": "https://imq.github.io/awesome-projects/"
+  },
+  {
+    "id": 10,
+    "title": "Demo Repository Example",
+    "image": "https://avatars.githubusercontent.com/u/9919?s=160&v=4",
+    "description": "A classic demo repo showing how GitHub project layouts work.",
+    "tags": ["Example", "Demo", "Template"],
+    "repolink": "https://github.com/Pearl1981/demo-repository",
+    "demolink": "https://pearl1981.github.io/demo-repository/"
+  }
+]
